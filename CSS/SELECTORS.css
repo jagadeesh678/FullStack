@@ -1,0 +1,95 @@
+/*.abc{
+	font-size:30px;
+	color:blue;
+	font-family: cursive;
+}
+*/
+
+/*#abc{
+	font-size:30px;
+	color:green;
+	font-family:cursive;
+}
+.bcd{
+	font-size: 20px;
+	background-color: blue;
+	font-style: italic;
+}
+*/ 
+
+/*
+ p{
+ 	font-size:20px;
+  	color: blue;
+  
+  	font-family: italic;
+ }
+*/ div{
+ 	height:200px;
+ 	width: 300px;
+ 	
+	background-color: yellow;
+}
+ 	 
+ 
+
+
+/*
+*{
+	font-size: 30px;
+	color: darkred;
+	font-family:cursive;
+}
+
+*/
+
+
+
+
+/*input[type]{
+	color:green;
+}
+input[type="number"]{
+	color:red;
+}
+input[type="text"]{
+	color:violet;
+}
+a[href]{
+	color:orange;
+	background-color: green
+}
+  
+
+img[src]{
+	border:40px;
+	border-radius: 30px;
+}
+*/
+
+
+
+/*a:hover{
+	color:green;
+	font-size: 50px;
+}
+*/
+
+/*a:link{
+	color:brown;
+}*/
+
+/*a:visited{
+	color:yellow;
+	font-size:50px;
+}*/
+
+/*a:active{
+	color:violet
+}
+
+div:hover{
+	height:300px;
+	width:300px;
+	background-color: brown
+}*/

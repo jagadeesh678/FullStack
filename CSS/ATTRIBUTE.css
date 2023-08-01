@@ -1,0 +1,9 @@
+input[type]{
+	color: blue;
+}
+a[href]{
+	color: green;
+}
+img[src]{
+	border-radius: 10px;
+}

@@ -1,0 +1,16 @@
+body{
+	background-color: skyblue;
+}
+h1 {
+	color: grey;
+	text-align: center;
+}
+
+.abc{
+	background-color: darkred;
+	font-family: cursive;
+	font-size: 30px;
+	color: darkorange;
+	border-color: darkgreen;
+
+}
